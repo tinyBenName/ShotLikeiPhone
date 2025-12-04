@@ -10,7 +10,10 @@ ShotLikeiPhone is a lightweight Windows screenshot tool that mimics the iPhone s
 Below is a short demo video showing the screenshot flash effect and camera shutter sound.  
 下面是演示视频，展示截图闪白效果和快门声音。
 
-![Demo Video](./demo.mp4)
+[![Demo Video](./thumbnail.png)](./demo.mp4)
+
+[![Watch the demo](./thumbnail.png)](https://www.bilibili.com/video/BV1su2YBEEzV?p=1)
+
 
 > ⚠️ GitHub may not autoplay video. Click to watch.
 
