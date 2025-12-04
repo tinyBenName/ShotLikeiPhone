@@ -34,8 +34,8 @@ You can download demo.mp4 to watch it yourself, or view it via the link below.
 
 ## 🚀 Installation / 安装
 
-1. Download the latest release from [Releases](https://github.com/yourusername/ShotLikeiPhone/releases)  
-   从 [Releases](https://github.com/yourusername/ShotLikeiPhone/releases) 下载最新版本
+1. Download the latest release.
+   下载最新版本
 2. Extract the zip file (if needed)  
    解压缩文件（如需要）
 3. Run `ShotLikeiPhone.exe`  
